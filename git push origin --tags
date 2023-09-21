@@ -1,0 +1,27 @@
+[33mtag v1.0[m
+Tagger: Maick Emerson <maick1556@gmail.com>
+Date:   Tue Sep 12 21:54:41 2023 -0300
+
+minha primeira tag
+
+[33mcommit 2aa3ced0879d18be9349771319d17ef33e51fa7a[m[33m ([m[1;36mHEAD -> [m[1;32mexemplo-branch[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/exemplo-branch[m[33m)[m
+Merge: 7a77946 3602674
+Author: Maick Emerson <maick1556@gmail.com>
+Date:   Tue Sep 12 21:31:24 2023 -0300
+
+    resolvendo conflitos
+
+[1mdiff --cc README.md[m
+[1mindex 34208f6,136c939..8544bcc[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@@ -1,4 -1,4 +1,7 @@@[m
+  # senai-versoes-colaboracoes[m
+  Inicial[m
+  readme exemplo[m
+[31m- lembrei do comando: git commit[m
+[31m -lembrei do comando: git status[m
+[32m++[m
+[32m++lembrei do comando: git commit[m
+[32m++lembrei do comando: git status[m
+[32m++[m
